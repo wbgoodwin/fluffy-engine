@@ -1,11 +1,11 @@
 [package]
-name = "trunk-template"
+name = "fluffy-engine"
 version = "0.1.0"
 edition = "2021"
-description = "Template for starting a Yew project using Trunk"
+description = "An open source web site template"
 readme = "README.md"
-repository = "https://github.com/yewstack/yew-trunk-minimal-template"
-license = "MIT OR Apache-2.0"
+repository = "https://github.com/wbgoodwin/fluffy-engine"
+license = "MIT"
 keywords = ["yew", "trunk"]
 categories = ["gui", "wasm", "web-programming"]
 
